@@ -16,6 +16,16 @@
   </a>
 </p>
 
+### Portfólio
+
+- 👨‍Pokedex <a href="https://pokedex-website.herokuapp.com/" target="_blank">
+    DEMO
+  </a> - 
+   <a href="https://gitlab.com/isrmicha1/pokemon" target="_blank">
+    Source
+  </a>
+
+
 ### Abstract
 
 - 👨‍💻 I'm currently working full-time at **Intelie**.
