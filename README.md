@@ -18,25 +18,15 @@
 
 ### Portfólio
 
-- 👨‍ Pokedex <a href="https://pokedex-website.herokuapp.com/" target="_blank">
-    DEMO
-  </a> - 
-   <a href="https://gitlab.com/isrmicha1/pokemon" target="_blank">
-    Source
-  </a>
- - 🎶🍕 Spotifood <a href="https://isrmicha-spotifood.herokuapp.com/" target="_blank">
-    DEMO
-  </a> - 
-   <a href="https://github.com/isrmicha/ifood-frontend-test" target="_blank">
-    Source
-  </a>
+  - 🎶🍕 | Spotifood | [DEMO](https://isrmicha-spotifood.herokuapp.com/) | [Source](https://github.com/isrmicha/ifood-frontend-test)
+  - 😸 | Pokedex | [DEMO](https://pokedex-website.herokuapp.com) | [Source](https://gitlab.com/isrmicha1/pokemon)
 
 
 ### Abstract
 
-- 👨‍💻 I'm currently working full-time at **Intelie**.
-- 🌱 Learning more about and studying: **Front-end and Back-end using Javascript**.
-- 💙 Interests: games 👾, tecnology.
+ - 👨‍💻 I'm currently working full-time at **Intelie**.
+ - 🌱 Learning more about and studying: **Front-end and Back-end using Javascript**.
+ - 💙 Interests: games 👾, tecnology.
 
 ### Languages and Tools
 
