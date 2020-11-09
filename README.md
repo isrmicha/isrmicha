@@ -20,6 +20,7 @@
 
   - 🎶🍕 | Spotifood | [DEMO](https://isrmicha-spotifood.herokuapp.com/) | [Source](https://github.com/isrmicha/ifood-frontend-test)
   - 😸 | Pokedex | [DEMO](https://pokedex-website.herokuapp.com) | [Source](https://gitlab.com/isrmicha1/pokemon)
+  - 🗡️ | Zelda Browser Extension | [Source](https://github.com/isrmicha/zelda-extension)
 
 
 ### Abstract
