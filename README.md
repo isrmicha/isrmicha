@@ -20,7 +20,7 @@
 
   - 🎶🍕 | Spotifood | [DEMO](https://isrmicha-spotifood.herokuapp.com/) | [Source](https://github.com/isrmicha/ifood-frontend-test)
   - 😸 | Pokedex | [DEMO](https://pokedex-website.herokuapp.com) | [Source](https://gitlab.com/isrmicha1/pokemon)
-  - 🍺 | Zé Delivery - Preço por litro - Google Chrome Extension | [Source](https://github.com/isrmicha/ze-preco-por-litro)
+  - 🍺 | Zé Delivery Informações - Google Chrome Extension | [Source](https://github.com/isrmicha/ze-preco-informacoes)
 
 
 ### Abstract
