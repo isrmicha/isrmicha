@@ -21,6 +21,8 @@
   - 🎶🍕 | Spotifood | [DEMO](https://isrmicha-spotifood.herokuapp.com/) | [Source](https://github.com/isrmicha/ifood-frontend-test)
   - 😸 | Pokedex | [DEMO](https://pokedex-website.herokuapp.com) | [Source](https://gitlab.com/isrmicha1/pokemon)
   - 🍺 | Zé Delivery Informações - Google Chrome Extension | [Source](https://github.com/isrmicha/ze-preco-informacoes)
+  - 🍕 | Ifood Informações - Google Chrome Extension | [Source](https://github.com/isrmicha/ifood-preco-informacoes)
+
 
 
 ### Abstract
