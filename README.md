@@ -1,6 +1,10 @@
 ### Wellcome to Israel Github Profile 🤖
 
 <p align="center">
+  <a href="https://linkedin.com/in/isrmicha"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=isrmicha&color=blue&logo=linkedin&style=flat-square&logoColor=white"" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
@@ -28,10 +32,6 @@
  - 👨‍💻 I'm currently working full-time at **Intelie**.
  - 🌱 Learning more about and studying: **Front-end and Back-end using Javascript**.
  - 💙 Interests: games 👾, tecnology.
-
-### Find me around the web 🌎:
-
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/israel-neves-micha-a78504118/">LinkedIn</a>.
 
 
 ![Snake animation](https://github.com/isrmicha/isrmicha/blob/output/github-contribution-grid-snake.svg)
