@@ -32,3 +32,6 @@
 ### Find me around the web 🌎:
 
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/israel-neves-micha-a78504118/">LinkedIn</a>.
+
+
+![Snake animation](https://github.com/isrmicha/isrmicha/blob/output/github-contribution-grid-snake.svg)
