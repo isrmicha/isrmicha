@@ -31,7 +31,7 @@
 
  - 👨‍💻 I'm currently working full-time at **Intelie**.
  - 🌱 Learning more about and studying: **Front-end and Back-end using Javascript**.
- - 💙 Interests: games 👾, tecnology.
+ - 💙 Interests: games 👾, technology.
 
 
 ![Snake animation](https://github.com/isrmicha/isrmicha/blob/output/github-contribution-grid-snake.svg)
