@@ -29,9 +29,9 @@
 
 ### Abstract
 
- - 👨‍💻 I'm currently working full-time at **Intelie**.
- - 🌱 Learning more about and studying: **Front-end and Back-end using Javascript**.
- - 💙 Interests: games 👾, technology.
+ - 👨‍💻 I'm currently working full-time at **Grupo Boticário**.
+ - 🌱 Learning more about and studying: **Front-end using Javascript/Typescript**.
+ - 💙 Interests: games 👾, technology and crypto.
 
 
 ![Snake animation](https://github.com/isrmicha/isrmicha/blob/output/github-contribution-grid-snake.svg)
