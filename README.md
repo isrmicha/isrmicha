@@ -30,7 +30,7 @@
 ### Abstract
 
  - 👨‍💻 I'm currently working full-time at **Grupo Boticário**.
- - 🌱 Learning more about and studying: **Front-end using Javascript/Typescript**.
+ - 🌱 Learning more about and studying: **Front-end using Javascript/Typescript and React with Redux**.
  - 💙 Interests: games 👾, technology and crypto.
 
 
