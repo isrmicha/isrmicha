@@ -34,4 +34,3 @@
  - 💙 Interests: games 👾, technology and crypto.
 
 
-![Snake animation](https://github.com/isrmicha/isrmicha/blob/output/github-contribution-grid-snake.svg)
