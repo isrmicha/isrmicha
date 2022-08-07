@@ -22,7 +22,7 @@
 
 ### Portfólio
   - 🍻 | Uminha - Find places to drink APK for Android | [Link](https://m.apkpure.com/br/uminha-bora-tomar-uma/com.isrstudio.uminhabeer) 
-  - 😸 | Pokedex | [DEMO](https://github.com/isrmicha/pokedex) | [Source](https://pokedex-isrmicha.vercel.app/)
+  - 😸 | Pokedex | [DEMO](https://pokedex-isrmicha.vercel.app/) | [Source](https://github.com/isrmicha/pokedex)
   - 🎶🍕 | Spotifood | [DEMO](https://isrmicha-spotifood.herokuapp.com/) | [Source](https://github.com/isrmicha/ifood-frontend-test)
 
 
