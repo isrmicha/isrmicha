@@ -34,5 +34,3 @@
  - 🌱 Learning more about and studying: **Front-end using Javascript/Typescript and React with Redux**.
  - 💙 Interests: games 👾, technology and crypto.
 
-
-![Snake animation](https://github.com/isrmicha/isrmicha/blob/output/github-contribution-grid-snake.svg)
