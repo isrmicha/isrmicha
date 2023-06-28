@@ -10,7 +10,8 @@
   - 😸 | Pokedex | [DEMO](https://pokedex-isrmicha.vercel.app/) | [Source](https://github.com/isrmicha/pokedex)
     
     
-![image](https://github.com/isrmicha/isrmicha/assets/8812005/15d5b9b7-05cc-4395-93e7-e2ee8b17538d)
+![image](https://github.com/isrmicha/isrmicha/assets/8812005/36ed7b09-9b5c-46e0-80f0-8fe65af48df8)
+
 
 
   - 🎶🍕 | Spotifood | [DEMO](https://isrmicha-spotifood.herokuapp.com/) | [Source](https://github.com/isrmicha/ifood-frontend-test)
