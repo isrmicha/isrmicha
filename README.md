@@ -14,6 +14,7 @@
 
 
 
+  - 🪨📃✂️ | Web3 Rock Paper Scissor | [DEMO](https://rock-paper-scissors-web3.vercel.app/) | [Source](https://github.com/isrmicha/web3-rock-paper-scissors)
   - 🎶🍕 | Spotifood | [DEMO](https://isrmicha-spotifood.herokuapp.com/) | [Source](https://github.com/isrmicha/ifood-frontend-test)
 
 
