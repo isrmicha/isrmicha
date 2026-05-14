@@ -1,11 +1,9 @@
 import Image from "next/image";
-import Link from "next/link";
 
 export default function Home() {
   return (
     <div className="min-h-screen flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
       <main className="flex flex-1 w-full max-w-4xl flex-col items-center justify-between py-20 px-6 bg-white dark:bg-black sm:items-start">
-        {/* Header */}
         <section className="mb-12 text-center">
           <h1 className="text-4xl font-bold tracking-tight text-black dark:text-zinc-50 mb-4">
             Israel Neves Micha
