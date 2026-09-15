@@ -125,11 +125,11 @@ const SKILL_CATEGORIES = [
 
 const PROJECTS = [
   {
-    title: "Schedule",
-    category: "SaaS / Produtividade",
+    title: "PopNews",
+    category: "Portal de Notícias / Mídia",
     description:
-      "Aplicação moderna de agendamento de consultas e gerenciamento de horários, simplificando fluxos de reserva com interface fluida.",
-    tags: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+      "Portal dinâmico de notícias e entretenimento cobrindo cultura pop, celebridades e distribuição de mídia digital em tempo real.",
+    tags: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Mídia Digital"],
     demoUrl: "https://popnews.tech",
     featured: true,
   },

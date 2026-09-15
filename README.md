@@ -49,6 +49,7 @@
 
 | Projeto | Descrição | Stack | Links |
 | :--- | :--- | :--- | :--- |
+| **PopNews** | Portal de entretenimento, cultura pop e notícias em tempo real | Next.js, React, Tailwind | [Demo](https://popnews.tech) |
 | **Cardápio Digital** | Plataforma moderna de cardápio interativo e e-commerce | Next.js, TypeScript, Tailwind | [Demo](https://cardapio-digital-pi-olive.vercel.app) · [Code](https://github.com/isrmicha/cardapio-digital) |
 | **Schedule** | Aplicação SaaS para agendamento de consultas e horários | React, Next.js, TypeScript | [Demo](https://schedule-gamma-six.vercel.app) · [Code](https://github.com/isrmicha/schedule) |
 | **PokePath TD Wiki** | Guia e enciclopédia interativa para o jogo PokePath TD | Fumadocs, Next.js, MDX | [Demo](https://pokepath-wiki.vercel.app) · [Code](https://github.com/isrmicha/pokepath-wiki) |
