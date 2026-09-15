@@ -342,8 +342,8 @@ export default function Home() {
           {/* Highlight metrics */}
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-8 pt-8 w-full max-w-4xl border-t border-white/5">
             <div className="p-4 rounded-xl bg-white/[0.02] border border-white/5">
-              <div className="text-2xl md:text-3xl font-bold text-white font-mono">90+</div>
-              <div className="text-xs text-slate-400 mt-1">Repositórios no GitHub</div>
+              <div className="text-2xl md:text-3xl font-bold text-white font-mono">8+</div>
+              <div className="text-xs text-slate-400 mt-1">Aplicações em Produção</div>
             </div>
             <div className="p-4 rounded-xl bg-white/[0.02] border border-white/5">
               <div className="text-2xl md:text-3xl font-bold text-blue-400 font-mono">10+</div>
@@ -412,16 +412,16 @@ export default function Home() {
                 Projetos & Aplicações
               </h2>
               <p className="text-slate-400 text-sm max-w-2xl">
-                Projetos reais com código aberto e demonstrações em produção.
+                Aplicações e produtos com demonstrações ativas em produção.
               </p>
             </div>
             <a
-              href="https://github.com/isrmicha?tab=repositories"
+              href="https://github.com/isrmicha"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center space-x-1.5 text-xs font-medium text-slate-400 hover:text-white transition-colors"
             >
-              <span>Ver todos os repositórios</span>
+              <span>Ver perfil no GitHub</span>
               <ExternalLinkIcon className="w-3.5 h-3.5" />
             </a>
           </div>
