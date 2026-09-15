@@ -125,23 +125,12 @@ const SKILL_CATEGORIES = [
 
 const PROJECTS = [
   {
-    title: "Cardápio Digital",
-    category: "E-Commerce / Web App",
-    description:
-      "Plataforma completa de cardápio digital interativo e pedidos online, construída para proporcionar rapidez, responsividade e facilidade de navegação.",
-    tags: ["Next.js", "TypeScript", "Tailwind CSS", "App Router"],
-    demoUrl: "https://cardapio-digital-pi-olive.vercel.app",
-    repoUrl: "https://github.com/isrmicha/cardapio-digital",
-    featured: true,
-  },
-  {
     title: "Schedule",
     category: "SaaS / Produtividade",
     description:
       "Aplicação moderna de agendamento de consultas e gerenciamento de horários, simplificando fluxos de reserva com interface fluida.",
     tags: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    demoUrl: "https://schedule-gamma-six.vercel.app",
-    repoUrl: "https://github.com/isrmicha/schedule",
+    demoUrl: "https://popnews.tech",
     featured: true,
   },
   {
@@ -151,7 +140,6 @@ const PROJECTS = [
       "Enciclopédia e guia de estratégias para o jogo PokePath Tower Defense, desenvolvida com Fumadocs para documentação rápida e moderna com suporte a MDX.",
     tags: ["Fumadocs", "Next.js", "TypeScript", "MDX"],
     demoUrl: "https://pokepath-wiki.vercel.app",
-    repoUrl: "https://github.com/isrmicha/pokepath-wiki",
     featured: true,
   },
   {
@@ -171,7 +159,6 @@ const PROJECTS = [
       "Plataforma agregadora de promoções e ofertas imperdíveis, reunindo descontos e oportunidades de compra com filtros por categoria.",
     tags: ["Next.js", "TypeScript", "React", "Tailwind CSS"],
     demoUrl: "https://super-promos.vercel.app",
-    repoUrl: "https://github.com/isrmicha/promos",
     featured: false,
   },
   {
@@ -181,7 +168,6 @@ const PROJECTS = [
       "Aplicação web interativa para karaokê, sincronizando reprodução de áudio com exibição dinâmica de letras de músicas em tempo real.",
     tags: ["React", "TypeScript", "Web Audio API", "Tailwind CSS"],
     demoUrl: "https://karaoke-bice.vercel.app",
-    repoUrl: "https://github.com/isrmicha/karaoke",
     featured: false,
   },
   {
